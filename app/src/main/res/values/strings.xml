@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DesplazamientoSeguro</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="fa_btn_destino">Elige Destino</string>
+    <string name="fa_btn_microbloggin">Microbloggin</string>
+    <string name="ma_btn_ver_microbloggin">Ver Microbloggin</string>
+    <string name="ma_btn_crear_microbloggin">Crear Microbloggin</string>
+    <string name="add_microbloggin">Añadiendo Microbloggin</string>
+    <string name="add_imagen">Agregar Imagen</string>
+    <string name="add_lugar">Lugar:</string>
+    <string name="add_mensaje">Mensaje:</string>
+    <string name="add_ubicacion">Ubicacion</string>
+    <string name="agregar">Agregar</string>
+    <string name="hint_lugar">Nombre del Lugar</string>
+    <string name="hint_descripcion">Agregue una decripcion</string>
+</resources>
